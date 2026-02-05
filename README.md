@@ -51,5 +51,3 @@ Data abstraction through structured logic
 
 ---
 # 📂 Project Structure
-
-Week1
