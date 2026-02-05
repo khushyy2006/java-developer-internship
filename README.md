@@ -1,6 +1,4 @@
-*WELNTERN INTERNSHIPE* 
----
-🎓 Student Management System (Java Console Application)
+# 🎓 Student Management System (Java Console Application)
 
 A Java console-based Student Management System developed as part of Week 1 of my Java Developer Internship at WeIntern.
 This application demonstrates how student records can be efficiently managed using core Java and OOP principles.
@@ -12,7 +10,7 @@ The Student Management System allows users to manage student records through a m
 It supports essential CRUD operations and provides a structured way to store, update, and retrieve student data dynamically.
 
 ---
-✨ Features
+# ✨ Features
 
 📋 Menu-driven console application
 
@@ -29,7 +27,7 @@ It supports essential CRUD operations and provides a structured way to store, up
 🧠 Dynamic data handling using ArrayList
 
 ---
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Java
 
@@ -41,7 +39,7 @@ Console Application
 
 ---
 
-🧩 OOP Concepts Used
+# 🧩 OOP Concepts Used
 
 Classes & Objects
 
@@ -52,5 +50,4 @@ Encapsulation
 Data abstraction through structured logic
 
 ---
-📂 Project Structure
-
+# 📂 Project Structure
