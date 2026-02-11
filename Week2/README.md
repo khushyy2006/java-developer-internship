@@ -1,4 +1,5 @@
 #🏦 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐚𝐧𝐤𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦 (𝐉𝐚𝐯𝐚 𝐂𝐨𝐧𝐬𝐨𝐥𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧)
+
 📌 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧
 This is a console-based Banking System developed using Core Java and JDBC as part of my Java Developer Internship.
 
@@ -17,6 +18,7 @@ Data stored permanently in a MySQL database
 
 Robust error handling for large numeric inputs
 
+
 🛠 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐔𝐬𝐞𝐝
 Core Java (JDK 24)
 
@@ -27,7 +29,7 @@ JDBC (Java Database Connectivity)
 OOP Concepts (Abstraction, Inheritance, Encapsulation)
 
 Exception Handling
-
+---
 📂 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞
 MainBankAccount: Abstract base class for account logic
 
