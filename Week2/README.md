@@ -24,12 +24,18 @@
 * **SavingsAccount**: *Inherited class for specific account types.*
 * **BankingSystem**: *Main execution class and JDBC controller.*
 
-## ▶ 𝐇𝐨𝐰 𝐭𝐨 𝐑𝐮𝐧 𝐭𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
-1. **Compile the program:**
-   `javac BankingSystem.java`
-2. **Run the program:**
-   `java BankingSystem`
-3. **Follow the menu options (1-5) in the console.**
+##▶ 𝐇𝐨𝐰 𝐭𝐨 𝐑𝐮𝐧 𝐭𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐒𝐞𝐭𝐮𝐩: Run the SQL script provided in the schema.sql file to create the Banking_System database and accounts table.
+
+𝐀𝐝𝐝 𝐋𝐢𝐛𝐫𝐚𝐫𝐲: Download the mysql-connector-j-9.6.0.jar and place it in your project folder.
+
+𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐚𝐭𝐢𝐨𝐧: Open BankingSystem.java and update the USER and PASSWORD variables with your MySQL credentials.
+
+𝐂𝐨𝐦𝐩𝐢𝐥𝐞 & 𝐑𝐮𝐧
+
+java -cp ".;mysql-connector-j-9.6.0.jar" BankingSystem
+
+𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞𝐧𝐮: Use the numeric options (1-5) displayed in the console to perform banking operations.
 
 ## 📁 𝐃𝐚𝐭𝐚 𝐒𝐭𝐨𝐫𝐚𝐠𝐞 𝐅𝐨𝐫𝐦𝐚𝐭
 *Account details are stored in the **accounts** table in MySQL:*
@@ -41,6 +47,4 @@
 * *Managing JDBC Connections & Handshakes*
 * *Console-Based Application Development*
 
-## 👩‍💻 𝐀𝐮𝐭𝐡𝐨𝐫
-### 𝐊𝐡𝐮𝐬𝐡𝐢 𝐋𝐨𝐤𝐡𝐚𝐧𝐝𝐞
 ### 𝐉𝐚𝐯𝐚 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧 | 𝐖𝐞I𝐧𝐭𝐞𝐫𝐧
