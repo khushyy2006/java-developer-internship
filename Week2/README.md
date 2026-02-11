@@ -1,7 +1,7 @@
 # 🏦 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐚𝐧𝐤𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦 (𝐉𝐚𝐯𝐚 𝐂𝐨𝐧𝐬𝐨𝐥𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧)
 
 ## 📌 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧
-*This is a console-based Banking System developed using **Core Java** and **JDBC** as part of my **Task 2** for the Java Developer Internship at **Welintern**.*
+*This is a console-based Banking System developed using **Core Java** and **JDBC** as part of my **Task 2** for the Java Developer Internship at **WeIntern**.*
 
 *The application provides a real-time banking experience where users can manage their accounts through a menu-driven interface. This version utilizes a **MySQL Database** for professional data management and persistence.*
 
@@ -43,4 +43,4 @@
 
 ## 👩‍💻 𝐀𝐮𝐭𝐡𝐨𝐫
 ### 𝐊𝐡𝐮𝐬𝐡𝐢 𝐋𝐨𝐤𝐡𝐚𝐧𝐝𝐞
-### 𝐉𝐚𝐯𝐚 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧 | 𝐖𝐞𝐥𝐢𝐧𝐭𝐞𝐫𝐧
+### 𝐉𝐚𝐯𝐚 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧 | 𝐖𝐞I𝐧𝐭𝐞𝐫𝐧
